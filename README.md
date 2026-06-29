@@ -14,9 +14,7 @@
 
 ## 🏆 Certificaciones
 
-[![Cisco Ethical Hacker](https://images.credly.com/size/150x150/images/5c1dab03-c1f0-4eed-b18b-bf80ac9f7b0f/Ethical_Hacker.png)](https://www.credly.com/badges/5c1dab03-c1f0-4eed-b18b-bf80ac9f7b0f/public_url)
-
----
+[![Cisco Ethical Hacker](https://images.credly.com/size/220x220/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/5c1dab03-c1f0-4eed-b18b-bf80ac9f7b0f/public_url)
 
 ## 🛠️ Tecnologías y herramientas
 
